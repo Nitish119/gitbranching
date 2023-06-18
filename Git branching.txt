@@ -1,4 +1,5 @@
 This text document is just created fot the purpose of learning git branching.
+0
 1
 2
 3
